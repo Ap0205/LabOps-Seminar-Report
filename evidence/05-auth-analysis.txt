@@ -1,0 +1,6 @@
+ssh_lab  | Failed password for weakuser from 172.18.0.1 port 60404 ssh2
+ssh_lab  | Accepted password for weakuser from 172.18.0.1 port 60404 ssh2
+ssh_lab  | Failed password for weakuser from 172.18.0.1 port 61406 ssh2
+ssh_lab  | Failed password for weakuser from 172.18.0.1 port 61406 ssh2
+ssh_lab  | Accepted password for weakuser from 172.18.0.1 port 61406 ssh2
+ssh_lab  | Accepted password for weakuser from 172.18.0.1 port 60100 ssh2

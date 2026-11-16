@@ -1,0 +1,2 @@
+# Hydra v9.7 run at 2026-11-15 20:52:10 on 127.0.0.1 ssh (hydra -L /Users/aayushsharma/labops/evidence/users.txt -P /Users/aayushsharma/labops/evidence/weak-passwords.txt -s 2222 -V -t 4 -o /Users/aayushsharma/labops/evidence/19-hydra-weak-only.txt 127.0.0.1 ssh)
+[2222][ssh] host: 127.0.0.1   login: weakuser   password: 123456

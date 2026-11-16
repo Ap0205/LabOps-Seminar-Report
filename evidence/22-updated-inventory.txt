@@ -1,0 +1,33 @@
+LABOPS UPDATED EVIDENCE INVENTORY
+Sun Nov 15 21:03:43 IST 2026
+/Users/aayushsharma/labops/evidence/00-assets.txt
+/Users/aayushsharma/labops/evidence/01-login-page.png
+/Users/aayushsharma/labops/evidence/01-phishing-analysis.txt
+/Users/aayushsharma/labops/evidence/02-nmap.txt
+/Users/aayushsharma/labops/evidence/03-ssh-login.txt
+/Users/aayushsharma/labops/evidence/04-ssh-logs.txt
+/Users/aayushsharma/labops/evidence/05-auth-analysis.txt
+/Users/aayushsharma/labops/evidence/06-hydra-results.txt
+/Users/aayushsharma/labops/evidence/07-ssh-verification.txt
+/Users/aayushsharma/labops/evidence/08-ssh-lab-summary.txt
+/Users/aayushsharma/labops/evidence/09-final-inventory.txt
+/Users/aayushsharma/labops/evidence/10-gpg-fingerprint-analysis.txt
+/Users/aayushsharma/labops/evidence/11-final-gpg-verification.txt
+/Users/aayushsharma/labops/evidence/12-attacker-verification.png
+/Users/aayushsharma/labops/evidence/13-phishing-test-result.png
+/Users/aayushsharma/labops/evidence/14-legitimate-verification.png
+/Users/aayushsharma/labops/evidence/15-secrets-permissions.txt
+/Users/aayushsharma/labops/evidence/16-tampering-detection.png
+/Users/aayushsharma/labops/evidence/16-tampering-detection.txt
+/Users/aayushsharma/labops/evidence/17-evidence-index.txt
+/Users/aayushsharma/labops/evidence/18-hydra-ssh-results.txt
+/Users/aayushsharma/labops/evidence/19-hydra-weak-only.png
+/Users/aayushsharma/labops/evidence/19-hydra-weak-only.txt
+/Users/aayushsharma/labops/evidence/20-secrets-decrypted.env
+/Users/aayushsharma/labops/evidence/20-secrets-encrypted.asc
+/Users/aayushsharma/labops/evidence/21-sha256-integrity.txt
+/Users/aayushsharma/labops/evidence/22-updated-inventory.txt
+/Users/aayushsharma/labops/evidence/fingerprints.txt
+/Users/aayushsharma/labops/evidence/passwords.txt
+/Users/aayushsharma/labops/evidence/users.txt
+/Users/aayushsharma/labops/evidence/weak-passwords.txt

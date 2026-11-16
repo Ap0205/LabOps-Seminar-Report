@@ -1,0 +1,47 @@
+/Users/aayushsharma/labops/evidence/00-assets.txt
+/Users/aayushsharma/labops/evidence/01-login-page.png
+/Users/aayushsharma/labops/evidence/01-phishing-analysis.txt
+/Users/aayushsharma/labops/evidence/02-nmap.txt
+/Users/aayushsharma/labops/evidence/03-ssh-login.txt
+/Users/aayushsharma/labops/evidence/04-ssh-logs.txt
+/Users/aayushsharma/labops/evidence/05-auth-analysis.txt
+/Users/aayushsharma/labops/evidence/06-hydra-results.txt
+/Users/aayushsharma/labops/evidence/07-ssh-verification.txt
+/Users/aayushsharma/labops/evidence/08-ssh-lab-summary.txt
+/Users/aayushsharma/labops/evidence/09-final-inventory.txt
+/Users/aayushsharma/labops/evidence/10-gpg-fingerprint-analysis.txt
+/Users/aayushsharma/labops/evidence/11-final-gpg-verification.txt
+/Users/aayushsharma/labops/evidence/12-attacker-verification.png
+/Users/aayushsharma/labops/evidence/13-phishing-test-result.png
+/Users/aayushsharma/labops/evidence/14-legitimate-verification.png
+/Users/aayushsharma/labops/evidence/15-secrets-permissions.txt
+/Users/aayushsharma/labops/evidence/16-tampering-detection.png
+/Users/aayushsharma/labops/evidence/16-tampering-detection.txt
+/Users/aayushsharma/labops/evidence/18-hydra-ssh-results.txt
+/Users/aayushsharma/labops/evidence/19-hydra-weak-only.png
+/Users/aayushsharma/labops/evidence/19-hydra-weak-only.txt
+/Users/aayushsharma/labops/evidence/20-secrets-decrypted.env
+/Users/aayushsharma/labops/evidence/20-secrets-encrypted.asc
+/Users/aayushsharma/labops/evidence/21-sha256-integrity.txt
+/Users/aayushsharma/labops/evidence/22-updated-inventory.txt
+/Users/aayushsharma/labops/evidence/23-key-substitution-test.txt
+/Users/aayushsharma/labops/evidence/attacker-public-key.asc
+/Users/aayushsharma/labops/evidence/fingerprints.txt
+/Users/aayushsharma/labops/evidence/passwords.txt
+/Users/aayushsharma/labops/evidence/test-note.asc
+/Users/aayushsharma/labops/evidence/test-note.txt
+/Users/aayushsharma/labops/evidence/users.txt
+/Users/aayushsharma/labops/evidence/weak-passwords.txt
+
+
+SUPPLEMENTAL EVIDENCE ADDED 16 NOVEMBER 2026
+24-local-phishing-page.png — local awareness demonstration page.
+25-gpg-key-import.png — import of the legitimate release public key.
+26-legitimate-gpg-signature-unknown-trust.png — good signature with unknown trust; fingerprint must be checked independently.
+27-sha256-original-vs-tampered.png — SHA-256 digests for original and modified scripts.
+28-tampered-script-bad-signature.png — BAD signature for modified script.
+29-secrets-permissions-pass.png — screenshot of mode 600 and PASS result.
+30-encrypted-ciphertext-file-presence.png — screenshot showing encrypted artefact exists (ciphertext itself intentionally not included).
+15-secrets-permissions-redacted.txt — redacted transcript based on screenshot; no secret value or absolute path.
+
+The original 20-secrets-encrypted.asc ciphertext and the original 15-secrets-permissions.txt transcript were not present in the uploaded ZIP. The screenshots above provide supplemental proof of the permission check and ciphertext-file presence; they do not substitute for the ciphertext bytes.

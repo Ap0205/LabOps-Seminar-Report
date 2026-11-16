@@ -1,0 +1,3 @@
+gpg: encrypted with rsa4096 key, ID 6D73CE9C8936ADEC, created 2026-11-15
+      "LabOps Release <labops-release@labops.example>"
+LabOps key substitution test

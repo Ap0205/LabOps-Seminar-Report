@@ -1,0 +1,20 @@
+LABOPS RELEASE KEY SUBSTITUTION TEST
+
+Both public keys use the same displayed identity:
+LabOps Release <labops-release@labops.example>
+
+Legitimate release key fingerprint:
+FA5B4CBF1CCA2FD074CAC50DC570BC738F5A7EA4
+
+Simulated attacker key fingerprint:
+A3C767004887D273BFBCCA246D73CE9C8936ADEC
+
+The fingerprints are different.
+
+The attacker-signed file produced a cryptographically
+valid signature, but GPG displayed unknown trust and
+warned that the key identity was not certified.
+
+Conclusion:
+A valid signature does not by itself establish the
+identity or trustworthiness of the signing key.

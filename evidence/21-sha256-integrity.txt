@@ -1,0 +1,9 @@
+LABOPS INSTALLATION SCRIPT SHA-256 CHECK
+
+Original script:
+ba2607e91e45b7146a8e0499d3ed0a0ac67d3ec6537678e5248e01e62bcfe1eb  /Users/aayushsharma/labops/release/install.sh
+
+Tampered script:
+8c912e2483eeda3c47afe79ce7782f5f075d8d9669dadb8fd1d42b8bf429a89e  /Users/aayushsharma/labops/release/install-tampered.sh
+
+RESULT: Files differ - modification detected

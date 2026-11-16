@@ -1,0 +1,24 @@
+SSH SECURITY LAB - SUMMARY
+
+Target: 127.0.0.1
+Service: SSH
+Port: 2222
+Tool: Hydra v9.7
+
+Authentication Testing:
+- Username tested: weakuser
+- Failed authentication attempts observed: 3
+- Successful authentication attempts observed: 3
+- Valid credentials identified: Yes
+
+Manual SSH Verification:
+- SSH login successful: Yes
+- Username verified: weakuser
+- Hostname verified: 0f86417991c8
+- Operating system: Ubuntu 24.04.5 LTS
+
+Conclusion:
+The SSH lab successfully demonstrated password
+guessing against a deliberately vulnerable test account.
+Weak passwords can expose SSH services to unauthorized access.
+

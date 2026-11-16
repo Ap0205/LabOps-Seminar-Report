@@ -1,0 +1,28 @@
+TASK 1: IDENTIFYING AND PREVENTING PHISHING ATTACKS
+
+The demonstration login page was opened locally in Safari.
+
+Five warning signs discussed:
+
+1. The address uses a local file:// path rather than an organisation's verified domain.
+2. The page does not use an HTTPS website connection.
+3. The heading is generic and does not identify a legitimate service.
+4. There is no recognisable organisational branding.
+5. There is no visible privacy notice, contact information or explanation for requesting credentials.
+
+Safety observation:
+This is a local educational demonstration. The form does not collect, transmit or store passwords.
+
+Protection:
+Check the website address carefully, use trusted bookmarks, avoid unexpected login links, and use multifactor authentication.
+
+Reflection:
+
+How can users recognise phishing pages?
+Users should inspect the URL, check the domain carefully, look for HTTPS, and be cautious of unexpected login requests.
+
+How can users protect themselves?
+Use multifactor authentication, password managers, trusted bookmarks, updated browsers, and avoid clicking suspicious links.
+
+Why do modern websites make phishing more difficult?
+Modern websites use HTTPS, multifactor authentication, passkeys, domain protections, and suspicious-login detection. These measures reduce risk but do not eliminate phishing.

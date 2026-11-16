@@ -1,0 +1,8 @@
+LABOPS INSTALLATION SCRIPT TAMPERING TEST
+Original signed file: install.sh
+Modified copy: install-tampered.sh
+
+gpg: Signature made Sun Nov 15 17:55:28 2026 IST
+gpg:                using RSA key FA5B4CBF1CCA2FD074CAC50DC570BC738F5A7EA4
+gpg:                issuer "labops-release@labops.example"
+gpg: BAD signature from "LabOps Release <labops-release@labops.example>" [ultimate]

@@ -1,0 +1,50 @@
+LABOPS SECURITY PROJECT
+ASSET INVENTORY
+
+Scenario:
+LabOps is a four-person team administering a Linux enrollment server
+and publishing an internal installation helper for students.
+
+1. HELPDESK MAILBOX
+Asset: helpdesk@labops.example
+Users: LabOps helpdesk team.
+Attacker benefit if compromised: Access to team communications,
+impersonate support staff, and send convincing fraudulent login requests.
+Personal data: Potentially, if student support messages contain personal details.
+
+2. SSH ACCOUNT
+Asset: Enrollment server SSH account.
+Users: LabOps server administrators.
+Attacker benefit if compromised: Unauthorised access to the server,
+its files, and administrative services.
+Personal data: The account itself is not shown to contain student data,
+but it provides access to systems that may contain personal data.
+
+3. GPG RELEASE KEY
+Asset: Private key used to sign software releases.
+Users: LabOps release maintainers.
+Attacker benefit if compromised: Sign unauthorised software or
+mislead users about the authenticity of a release.
+Personal data: No personal data specified.
+
+4. INSTALLATION SCRIPT
+Asset: install.sh.
+Users: Students downloading the enrollment helper.
+Attacker benefit if modified: Execute unauthorised commands when
+students run the altered script.
+Personal data: No personal data specified in the script.
+
+5. SECRETS FILE
+Asset: secrets.env containing the database password.
+Users: LabOps application and database administrators.
+Attacker benefit if exposed: Use the database credential to attempt
+unauthorised database access.
+Personal data: The file contains a password, not student records.
+The database it protects is treated as containing personal data.
+
+Conclusion:
+These five assets are connected. Compromising the helpdesk mailbox
+can enable phishing, weak SSH access can expose the server, a replaced
+release key can undermine software trust, a modified installation
+script can harm users, and an exposed database password can put
+student information at risk.

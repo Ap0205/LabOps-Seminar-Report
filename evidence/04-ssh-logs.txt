@@ -1,0 +1,30 @@
+ssh_lab  | Creating users for SSH lab...
+ssh_lab  | Created student
+ssh_lab  | Created weakuser
+ssh_lab  | Created mediumuser
+ssh_lab  | Created stronguser
+ssh_lab  | Users created:
+ssh_lab  |  - student / password123
+ssh_lab  |  - weakuser / 123456
+ssh_lab  |  - mediumuser / Password123
+ssh_lab  |  - stronguser / Str0ng!Pass#2026
+ssh_lab  | Done.
+ssh_lab  | Server listening on 0.0.0.0 port 2222.
+ssh_lab  | Server listening on :: port 2222.
+ssh_lab  | Failed password for weakuser from 172.18.0.1 port 60404 ssh2
+ssh_lab  | Accepted password for weakuser from 172.18.0.1 port 60404 ssh2
+ssh_lab  | syslogin_perform_logout: logout() returned an error
+ssh_lab  | Received disconnect from 172.18.0.1 port 60404:11: disconnected by user
+ssh_lab  | Disconnected from user weakuser 172.18.0.1 port 60404
+ssh_lab  | Connection closed by 172.18.0.1 port 59878
+ssh_lab  | Connection closed by 172.18.0.1 port 59894
+ssh_lab  | Connection closed by 172.18.0.1 port 59880
+ssh_lab  | Connection closed by 172.18.0.1 port 59888
+ssh_lab  | Connection closed by 172.18.0.1 port 65418
+ssh_lab  | Connection closed by 172.18.0.1 port 65424
+ssh_lab  | Failed password for weakuser from 172.18.0.1 port 61406 ssh2
+ssh_lab  | Failed password for weakuser from 172.18.0.1 port 61406 ssh2
+ssh_lab  | Accepted password for weakuser from 172.18.0.1 port 61406 ssh2
+ssh_lab  | Accepted password for weakuser from 172.18.0.1 port 60100 ssh2
+ssh_lab  | Received disconnect from 172.18.0.1 port 60100:11: disconnected by user
+ssh_lab  | Disconnected from user weakuser 172.18.0.1 port 60100

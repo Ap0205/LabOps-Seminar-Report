@@ -1,0 +1,11 @@
+===== LEGITIMATE RELEASE KEY =====
+pub   rsa4096 2026-11-15 [SCE] [expires: 2027-11-15]
+      FA5B 4CBF 1CCA 2FD0 74CA  C50D C570 BC73 8F5A 7EA4
+uid           [ultimate] LabOps Release <labops-release@labops.example>
+
+
+===== SIMULATED ATTACKER KEY =====
+pub   rsa4096 2026-11-15 [SCE] [expires: 2027-11-15]
+      A3C7 6700 4887 D273 BFBC  CA24 6D73 CE9C 8936 ADEC
+uid           [ultimate] LabOps Release <labops-release@labops.example>
+
